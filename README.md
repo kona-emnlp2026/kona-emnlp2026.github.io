@@ -2,7 +2,7 @@
 
 Project page for **Knowing What Not to Answer: Selective Non-Compliance in Vision-Language Models** (EMNLP 2026).
 
-- Page: https://mz-kim.github.io/kona-emnlp2026/
+- Page: https://kona-emnlp2026.github.io/
 - Paper: https://arxiv.org/abs/2609.04720
 - Code: https://github.com/mz-kim/KoNA
 - Dataset: https://huggingface.co/datasets/mz-kim/KoNA
